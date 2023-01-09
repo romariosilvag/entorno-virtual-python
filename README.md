@@ -22,8 +22,7 @@ Documentacion: https://docs.python.org/es/3.8/library/venv.html
 
 `python -m venv nombredeentornovirtual`
 
-**ingresar a la carpeta "\entorno-virtual\test-entorno-virtual\Scripts\" y activar entorno virtual con comando: 
-**
+**ingresar a la carpeta "\entorno-virtual\test-entorno-virtual\Scripts\" y activar entorno virtual con comando:**
 
 `activate`
 
@@ -63,12 +62,11 @@ Documentacion: https://virtualenv.pypa.io/en/latest/
 
 `virtualenv nombredeentornovirtual`
 
-**ingresar a la carpeta "\entorno-virtual\test-entorno-virtual\Scripts\" y activar entorno virtual con comando: 
-**
+**ingresar a la carpeta "\entorno-virtual\test-entorno-virtual\Scripts\" y activar entorno virtual con comando:**
 
 `activate`
 
-**para desactivar entorno virtual utilizar comando : **
+**para desactivar entorno virtual utilizar comando :**
 
 `deactivate`
 
